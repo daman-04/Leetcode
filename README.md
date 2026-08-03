@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/daman-04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 ## Sliding Window
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/daman-04/Leetcode/tree/master/0018-4sum) |
+| [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/daman-04/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Two Pointers
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->

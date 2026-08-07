@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/daman-04/Leetcode/tree/master/0018-4sum) |
+| [0064-minimum-path-sum](https://github.com/daman-04/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/daman-04/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -36,9 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/daman-04/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/daman-04/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->

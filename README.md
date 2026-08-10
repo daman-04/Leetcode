@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/daman-04/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/daman-04/Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/daman-04/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/daman-04/Leetcode/tree/master/0125-valid-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/daman-04/Leetcode/tree/master/0064-minimum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->

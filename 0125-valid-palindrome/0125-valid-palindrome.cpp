@@ -1,13 +1,31 @@
 class Solution {
 public:
-bool isPalindrome(string s) {
-    int l=0,r=s.size()-1;
-    while(l<r){
-        while(l<r&&!isalnum(s[l])) l++;
-        while(l<r&&!isalnum(s[r])) r--;
-        if(tolower(s[l])!=tolower(s[r])) return false;
-        l++;r--;
+    bool isPalindrome(string_view str) {
+        if (str.empty()) {
+            return true;
+        }
+        size_t left {0};
+        size_t right {str.length() - 1};
+        int first_ch {0}, second_ch {0};
+        while (left < right) {
+            first_ch = std::tolower(str[left]);
+            if (!isalnum(first_ch))
+            {
+                left++;
+                continue;
+            }
+            second_ch = std::tolower(str[right]);
+            if (!isalnum(second_ch))
+            {
+                right--;
+                continue;
+            }
+            if (first_ch != second_ch)
+            {
+                return false;
+            }
+            left++; right--;
+        }
+        return true;
     }
-    return true;
-}
 };

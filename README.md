@@ -68,9 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/daman-04/Leetcode/tree/master/0278-first-bad-version) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Trie
 |  |
 | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/daman-04/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

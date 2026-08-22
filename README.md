@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/daman-04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0064-minimum-path-sum](https://github.com/daman-04/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/daman-04/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/daman-04/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/daman-04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/daman-04/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/daman-04/Leetcode/tree/master/0278-first-bad-version) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 ## Trie

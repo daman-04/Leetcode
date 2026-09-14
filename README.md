@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/daman-04/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/daman-04/Leetcode/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/daman-04/Leetcode/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/daman-04/Leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/daman-04/Leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/daman-04/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Binary Search
@@ -89,9 +91,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 <!---LeetCode Topics End-->

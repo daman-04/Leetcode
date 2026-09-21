@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/daman-04/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/daman-04/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/daman-04/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/daman-04/Leetcode/tree/master/0278-first-bad-version) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/daman-04/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/daman-04/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

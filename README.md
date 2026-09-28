@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/daman-04/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/daman-04/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/daman-04/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0321-create-maximum-number](https://github.com/daman-04/Leetcode/tree/master/0321-create-maximum-number) |
 | [0792-number-of-matching-subsequences](https://github.com/daman-04/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Two Pointers
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/daman-04/Leetcode/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/daman-04/Leetcode/tree/master/0125-valid-palindrome) |
+| [0321-create-maximum-number](https://github.com/daman-04/Leetcode/tree/master/0321-create-maximum-number) |
 | [0392-is-subsequence](https://github.com/daman-04/Leetcode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/daman-04/Leetcode/tree/master/1616-split-two-strings-to-make-palindrome) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/daman-04/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/daman-04/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -92,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/daman-04/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/daman-04/Leetcode/tree/master/0321-create-maximum-number) |
 | [0402-remove-k-digits](https://github.com/daman-04/Leetcode/tree/master/0402-remove-k-digits) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/daman-04/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 ## Math
